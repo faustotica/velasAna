@@ -397,7 +397,7 @@ export const products = [
     id: 50,
     name: "Vela Osito con Globo",
     description: "Vela artesanal de soja con forma de osito en canasto blanco, acompañada de flores secas y globo celeste.",
-    price: 2900,
+    price: 3400,
     category: "Souvenirs",
     image: "https://res.cloudinary.com/tnidgdct/image/upload/v1795099919/velaoso.png"
   }
